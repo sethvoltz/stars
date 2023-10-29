@@ -60,14 +60,14 @@ Total starred repositories: `613`
 ## C
 
   - [agausmann/qmk_firmware](https://github.com/agausmann/qmk_firmware) - keyboard controller firmware for Atmel AVR USB family \[*GNU GPLv2*\] (⭐️7)
-  - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at \[*GNU GPLv3*\] (⭐️20403)
+  - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at \[*GNU GPLv3*\] (⭐️20407)
   - [aws/amazon-freertos](https://github.com/aws/amazon-freertos) - DEPRECATED - See README.md \[*MIT License*\] (⭐️2543) *Archived!*
   - [b4winckler/macvim](https://github.com/b4winckler/macvim) - Vim - the text editor - for Mac OS X (⭐️5117)
   - [borgel/sympetrum-v3](https://github.com/borgel/sympetrum-v3) - The Dragonfly badge as seen at DEFCON26 (⭐️18)
   - [dakhnod/FakeTag](https://github.com/dakhnod/FakeTag) - firmware for nRF51 chips that is coincidentally compatible with the FindMy (AirTag) ecosystem (⭐️296)
-  - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses. (⭐️2900)
+  - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses. (⭐️2903)
   - [Dhertz/words-date-pebble-watchface](https://github.com/Dhertz/words-date-pebble-watchface) - Words + Date pebble watch face (⭐️4)
-  - [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo (⭐️2641)
+  - [espruino/Espruino](https://github.com/espruino/Espruino) - The Espruino JavaScript interpreter - Official Repo (⭐️2642)
   - [fulldecent/system-bus-radio](https://github.com/fulldecent/system-bus-radio) - Transmits AM radio on computers without radio transmitting hardware. \[*MIT License*\] (⭐️6088)
   - [gabonator/LA104](https://github.com/gabonator/LA104) - LA104 logic analyser alternative firmware and experiments \[*MIT License*\] (⭐️496)
   - [glowfishAPI/httpsclient-particle](https://github.com/glowfishAPI/httpsclient-particle) - An httpsclient implementation for particle.io's photon \[*GNU GPLv2*\] (⭐️69)
@@ -75,7 +75,7 @@ Total starred repositories: `613`
   - [googlecreativelab/anypixel](https://github.com/googlecreativelab/anypixel) - A web-friendly way for anyone to build unusual displays \[*Apache License 2.0*\] (⭐️6441)
   - [HomeACcessoryKid/ESP8266-HomeKit](https://github.com/HomeACcessoryKid/ESP8266-HomeKit) - HomeKit server Native on ESP8266_RTOS with an API approach \[*Apache License 2.0*\] (⭐️486)
   - [Katharine/pebble-stopwatch](https://github.com/Katharine/pebble-stopwatch) - Basic stopwatch for the Pebble. (⭐️48)
-  - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning \[*MIT License*\] (⭐️18486)
+  - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning \[*MIT License*\] (⭐️18488)
   - [ku1ik/stderred](https://github.com/ku1ik/stderred) - stderr in red \[*MIT License*\] (⭐️936)
   - [lede-project/source](https://github.com/lede-project/source) - Mirror of https://git.lede-project.org/?p=source.git Please send your PRs against this tree. They will be merged via staging trees and appear in this tree once the staging trees get merged back into source.git (⭐️1636)
   - [libnet/libnet](https://github.com/libnet/libnet) - A portable framework for low-level network packet construction \[*BSD 2-Clause "Simplified" License*\] (⭐️837)
@@ -91,7 +91,7 @@ Total starred repositories: `613`
   - [pixelmatix/SmartMatrix_Fadecandy](https://github.com/pixelmatix/SmartMatrix_Fadecandy) - Port of Fadecandy firmware to run on SmartMatrix (⭐️10)
   - [PromyLOPh/pianobar](https://github.com/PromyLOPh/pianobar) - Console-based pandora.com player (⭐️1721)
   - [rdeker/2017carhackingvillagebadge](https://github.com/rdeker/2017carhackingvillagebadge) - Def Con 2017 Car Hacking Village Badge \[*GNU GPLv3*\] (⭐️4)
-  - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. \[*Modified BSD License*\] (⭐️61977)
+  - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps. \[*Modified BSD License*\] (⭐️61987)
   - [rubaidh/zetta](https://github.com/rubaidh/zetta) - ZFS bindings for Ruby \[*MIT License*\] (⭐️13)
   - [ruiqimao/qmkbuilder](https://github.com/ruiqimao/qmkbuilder) - Online GUI for QMK Firmware \[*GNU GPLv3*\] (⭐️363)
   - [scanlime/fadecandy](https://github.com/scanlime/fadecandy) - Easy to use open source hardware to drive WS2811 LEDs with high-quality color \[*MIT License*\] (⭐️1216)
@@ -100,7 +100,7 @@ Total starred repositories: `613`
   - [tsuraan/Jerasure](https://github.com/tsuraan/Jerasure) - Github repo for Jerasure Library - C Implementation of Reed-Solomon coding (⭐️274)
   - [yarrick/iodine](https://github.com/yarrick/iodine) - Official git repo for iodine dns tunnel \[*ISC License*\] (⭐️5556)
   - [zestyping/openpixelcontrol](https://github.com/zestyping/openpixelcontrol) - A simple stream protocol for controlling arrays of RGB lights. (⭐️349)
-  - [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys. \[*Apache License 2.0*\] (⭐️5039) 
+  - [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys. \[*Apache License 2.0*\] (⭐️5040) 
 
 **[⬆ back to top](#contents)**
 
@@ -109,16 +109,16 @@ Total starred repositories: `613`
   - [andycb/AdventurerClientDotNet](https://github.com/andycb/AdventurerClientDotNet) - A cross platform .NET library for communicating with the FlashForge Adventurer and Monoprice Voxel. \[*MIT License*\] (⭐️18)
   - [moserware/AES-Illustrated](https://github.com/moserware/AES-Illustrated) - An implementation of the Advanced Encryption Standard (AES) algorithm meant for study to go along with "A Stick Figure Guide to the Advanced Encryption Standard (AES)" blog post at www.moserware.com \[*MIT License*\] (⭐️409)
   - [philosowaffle/ambientweather-local-server](https://github.com/philosowaffle/ambientweather-local-server) - A server for receiving metrics from your local Ambient Weather Console and exposing them as Prometheus Metrics \[*GNU GPLv3*\] (⭐️21)
-  - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware \[*MIT License*\] (⭐️2147) 
+  - [qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox) - A Toolbox companion for QMK Firmware \[*MIT License*\] (⭐️2149) 
 
 **[⬆ back to top](#contents)**
 
 ## C++
 
   - [aaronsp777/megadecoder](https://github.com/aaronsp777/megadecoder) - Decoder for Linear Megacode Remotes (⭐️7)
-  - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more \[*Apache License 2.0*\] (⭐️20616)
+  - [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more \[*Apache License 2.0*\] (⭐️20617)
   - [appcelerator-archive/titanium_desktop](https://github.com/appcelerator-archive/titanium_desktop) - Appcelerator Titanium Desktop \[*Apache License 2.0*\] (⭐️262)
-  - [asmuth/clip](https://github.com/asmuth/clip) - Create charts from the command line \[*Apache License 2.0*\] (⭐️5138)
+  - [asmuth/clip](https://github.com/asmuth/clip) - Create charts from the command line \[*Apache License 2.0*\] (⭐️5137)
   - [atc1441/CH559sdccUSBHost](https://github.com/atc1441/CH559sdccUSBHost) - USB host to Arduino Interface with the Cheap CH559 uC \[*GNU GPLv3*\] (⭐️212)
   - [atuline/FastLED-Demos](https://github.com/atuline/FastLED-Demos) - Here's my updated FastLED demos from January, 2017. \[*GNU GPLv3*\] (⭐️604)
   - [bbx10/WiFiManager](https://github.com/bbx10/WiFiManager) - ESP8266/ESP32 WiFi Connection manager with web captive portal \[*MIT License*\] (⭐️39)
@@ -132,16 +132,16 @@ Total starred repositories: `613`
   - [Edzelf/ESP32-Radio](https://github.com/Edzelf/ESP32-Radio) - Internet radio based on ESP32, VS1053 and a TFT screen. \[*GNU GPLv3*\] (⭐️921)
   - [elechouse/PN532](https://github.com/elechouse/PN532) - NFC library for Arduino using PN532 (⭐️440)
   - [esologic/blinkbox](https://github.com/esologic/blinkbox) - A hardware test tool for working on addressable LED (ws2812, apa102c and other) projects (⭐️9)
-  - [esp8266/Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino \[*GNU LGPLv2.1*\] (⭐️15377)
-  - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.  \[*MIT License*\] (⭐️11971)
+  - [esp8266/Arduino](https://github.com/esp8266/Arduino) - ESP8266 core for Arduino \[*GNU LGPLv2.1*\] (⭐️15380)
+  - [facebook/watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.  \[*MIT License*\] (⭐️11973)
   - [facebookarchive/scribe](https://github.com/facebookarchive/scribe) - Scribe is a server for aggregating log data streamed in real time from a large number of servers. \[*Apache License 2.0*\] (⭐️3930) *Archived!*
   - [FlyingSamson/SpaceMouseTool](https://github.com/FlyingSamson/SpaceMouseTool) - A tool to manipulate the camera of Cura using a space mouse \[*GNU AGPLv3*\] (⭐️16)
   - [h3labs/led-matrixd](https://github.com/h3labs/led-matrixd) - led-matrixd \[*GNU GPLv2*\] (⭐️2)
   - [hirotakaster/MQTT](https://github.com/hirotakaster/MQTT) - MQTT for Photon, Spark Core (⭐️215)
-  - [HomeSpan/HomeSpan](https://github.com/HomeSpan/HomeSpan) - HomeKit Library for the Arduino-ESP32 \[*MIT License*\] (⭐️1078)
+  - [HomeSpan/HomeSpan](https://github.com/HomeSpan/HomeSpan) - HomeKit Library for the Arduino-ESP32 \[*MIT License*\] (⭐️1081)
   - [hpcc-systems/HPCC-Platform](https://github.com/hpcc-systems/HPCC-Platform) - HPCC Systems (High Performance Computing Cluster) is an open source, massive parallel-processing computing platform for big data processing and analytics. (⭐️546)
   - [hzeller/rpi-matrix-pixelpusher](https://github.com/hzeller/rpi-matrix-pixelpusher) - PixelPusher protocol for LED matrix. \[*GNU GPLv3*\] (⭐️161)
-  - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO \[*GNU GPLv2*\] (⭐️3282)
+  - [hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) - Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO \[*GNU GPLv2*\] (⭐️3283)
   - [JeremySCook/RotaryControl](https://github.com/JeremySCook/RotaryControl) - Rotary control with PICO - work in progress. (⭐️24)
   - [kakopappa/arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - Amazon Alexa  + WeMos switch made with Arduino D1 Mini  \[*MIT License*\] (⭐️274)
   - [knolleary/pubsubclient](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT. \[*MIT License*\] (⭐️3653)
@@ -149,16 +149,16 @@ Total starred repositories: `613`
   - [Makuna/NeoPixelBus](https://github.com/Makuna/NeoPixelBus) - An Arduino NeoPixel support library supporting a large variety of individually addressable LEDs.  Please refer to the Wiki for more details.  Please use the GitHub Discussions to ask questions as the GitHub Issues feature is used for bug tracking.   \[*GNU LGPLv3*\] (⭐️1114)
   - [MatzElectronics/CH559sdccUSBHost](https://github.com/MatzElectronics/CH559sdccUSBHost) -  \[*GNU GPLv3*\] (⭐️16)
   - [MilovdZee/LEDCircleClock](https://github.com/MilovdZee/LEDCircleClock) - A clock with 241 RGB LEDs  \[*Apache License 2.0*\] (⭐️18)
-  - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell \[*GNU GPLv3*\] (⭐️11924)
+  - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell \[*GNU GPLv3*\] (⭐️11926)
   - [mrdunk/esp8266_mdns](https://github.com/mrdunk/esp8266_mdns) - mDNS queries and responses on esp8266 \[*MIT License*\] (⭐️75)
   - [numist/project-typewriter](https://github.com/numist/project-typewriter) - software side of the Brother teletypewriter project. (⭐️41) *Archived!*
   - [okyeron/neotrellis-monome](https://github.com/okyeron/neotrellis-monome) - DIY neotrellis monome grid (⭐️164)
-  - [openalpr/openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library \[*GNU AGPLv3*\] (⭐️10807)
+  - [openalpr/openalpr](https://github.com/openalpr/openalpr) - Automatic License Plate Recognition library \[*GNU AGPLv3*\] (⭐️10805)
   - [paeaetech/paeae](https://github.com/paeaetech/paeae) - Paeae Technologies GPL code (⭐️21)
   - [pat/sphinx](https://github.com/pat/sphinx) - Free open-source SQL full-text search engine \[*GNU GPLv2*\] (⭐️26)
   - [platformio/platformio-examples](https://github.com/platformio/platformio-examples) - PlatformIO Project Examples \[*Apache License 2.0*\] (⭐️523)
   - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. \[*The Unlicense*\] (⭐️17120)
-  - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance. \[*Apache License 2.0*\] (⭐️6471)
+  - [project-chip/connectedhomeip](https://github.com/project-chip/connectedhomeip) - Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance. \[*Apache License 2.0*\] (⭐️6475)
   - [PWRFLcreative/Spore](https://github.com/PWRFLcreative/Spore) - Spore WiFi LED module. Firmware and Hardware. \[*GNU GPLv3*\] (⭐️22)
   - [Rafaeljff/arduino-UHF_JRD4035-READER](https://github.com/Rafaeljff/arduino-UHF_JRD4035-READER) -  M5STACK JRD4035 UHF RFID Reader  directly compatible on ESP32 board  (⭐️1)
   - [raspberrypi/pico-tflmicro](https://github.com/raspberrypi/pico-tflmicro) - Pico TensorFlow Lite Port (⭐️452)
@@ -175,7 +175,7 @@ Total starred repositories: `613`
 
 ## CSS
 
-  - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments \[*SIL Open Font License 1.1*\] (⭐️19258)
+  - [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments \[*SIL Open Font License 1.1*\] (⭐️19260)
   - [aftertheflood/sparks](https://github.com/aftertheflood/sparks) - A typeface for creating sparklines in text without code. \[*SIL Open Font License 1.1*\] (⭐️2061)
   - [asciinema/asciicast2gif](https://github.com/asciinema/asciicast2gif) - Generate GIF animations from asciicasts (asciinema recordings) \[*MIT License*\] (⭐️1201) *Archived!*
   - [jlong/sass-bootstrap-defunct](https://github.com/jlong/sass-bootstrap-defunct) - This project has been superceeded by an official Bootstrap Sass port. Please use:  \[*Apache License 2.0*\] (⭐️2264) 
@@ -190,7 +190,7 @@ Total starred repositories: `613`
 
 ## CoffeeScript
 
-  - [felixhageloh/weather-widget](https://github.com/felixhageloh/weather-widget) - A weather widget for Übersicht (⭐️61) 
+  - [felixhageloh/weather-widget](https://github.com/felixhageloh/weather-widget) - A weather widget for Übersicht (⭐️62) 
 
 **[⬆ back to top](#contents)**
 
@@ -206,16 +206,16 @@ Total starred repositories: `613`
   - [aacebedo/dnsdock](https://github.com/aacebedo/dnsdock) - DNS service discovery for Docker containers \[*MIT License*\] (⭐️577)
   - [arachnys/athenapdf](https://github.com/arachnys/athenapdf) - Drop-in replacement for wkhtmltopdf built on Go, Electron and Docker \[*MIT License*\] (⭐️2265) *Archived!*
   - [bemasher/BodyBuggBypass](https://github.com/bemasher/BodyBuggBypass) - A set of tools used for retrieving, parsing and clearing data from a BodyBugg. (⭐️16) *Archived!*
-  - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (⭐️27990)
-  - [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule \[*MIT License*\] (⭐️213)
-  - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server (⭐️4909)
+  - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (⭐️27996)
+  - [crazy-max/ddns-route53](https://github.com/crazy-max/ddns-route53) - Dynamic DNS for Amazon Route 53 on a time-based schedule \[*MIT License*\] (⭐️212)
+  - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server (⭐️4908)
   - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives. \[*MIT License*\] (⭐️12236)
   - [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @HashiCorp Consul and Vault data. \[*Mozilla Public License 2.0*\] (⭐️4684)
   - [igrigorik/ga-beacon](https://github.com/igrigorik/ga-beacon) - Google Analytics collector-as-a-service (using GA measurement protocol). \[*MIT License*\] (⭐️3524)
-  - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost (⭐️23287)
+  - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost (⭐️23288)
   - [jcmturner/ddns](https://github.com/jcmturner/ddns) - Dynamic DNS using AWS API Gatway, Lambda and Route53 \[*Apache License 2.0*\] (⭐️7)
   - [kris-hansen/notion-cli-go](https://github.com/kris-hansen/notion-cli-go) - Manage Notion tasks from the command line \[*Apache License 2.0*\] (⭐️9)
-  - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.  \[*Mozilla Public License 2.0*\] (⭐️4796)
+  - [letsencrypt/boulder](https://github.com/letsencrypt/boulder) - An ACME-based certificate authority, written in Go.  \[*Mozilla Public License 2.0*\] (⭐️4798)
   - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot) \[*MIT License*\] (⭐️16990)
   - [mbrt/gmailctl](https://github.com/mbrt/gmailctl) - Declarative configuration for Gmail filters \[*MIT License*\] (⭐️1671)
   - [nytlabs/streamtools](https://github.com/nytlabs/streamtools) - tools for working with streams of data \[*Apache License 2.0*\] (⭐️1311)
@@ -245,25 +245,25 @@ Total starred repositories: `613`
   - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line (⭐️3567)
   - [outdatedbrowser/outdated-browser](https://github.com/outdatedbrowser/outdated-browser) - A simple tool to identify and upgrade old browsers. \[*MIT License*\] (⭐️3542)
   - [propublica/upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS! (Or do more.) \[*MIT License*\] (⭐️1613)
-  - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐️75734)
+  - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐️75798)
   - [signetica/SunRise](https://github.com/signetica/SunRise) - Library / C++ class for calculating moon rise/set events for Unix, Linux, Arduino. (⭐️18)
   - [sorccu/cufon](https://github.com/sorccu/cufon) - Fast text replacement with canvas and VML - no Flash or images required. \[*MIT License*\] (⭐️2097)
   - [toddwschneider/stocks](https://github.com/toddwschneider/stocks) - A free, lightweight, blazing-fast static page to get stock quotes using IEX Cloud \[*MIT License*\] (⭐️794)
-  - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/ \[*MIT License*\] (⭐️16351) 
+  - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/ \[*MIT License*\] (⭐️16352) 
 
 **[⬆ back to top](#contents)**
 
 ## Haskell
 
-  - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database \[*MIT License*\] (⭐️21243) 
+  - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database \[*MIT License*\] (⭐️21246) 
 
 **[⬆ back to top](#contents)**
 
 ## Java
 
-  - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader. \[*Apache License 2.0*\] (⭐️2268)
+  - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader. \[*Apache License 2.0*\] (⭐️2271)
   - [bruckhaus/challenges](https://github.com/bruckhaus/challenges) - Coding Challenges \[*MIT License*\] (⭐️4)
-  - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data (⭐️13685)
+  - [elastic/logstash](https://github.com/elastic/logstash) - Logstash - transport and process your logs, events, or other data (⭐️13687)
   - [home-climate-control/dz](https://github.com/home-climate-control/dz) - Home Climate Control Core: *the* Open Source multi-zone temperature and climate control system. \[*GNU GPLv3*\] (⭐️57)
   - [jprante/elasticsearch-index-termlist](https://github.com/jprante/elasticsearch-index-termlist) - Elasticsearch Index Termlist \[*Apache License 2.0*\] (⭐️117)
   - [MarkBryanMilligan/LanternPowerMonitor](https://github.com/MarkBryanMilligan/LanternPowerMonitor) - The Lantern Power Monitor is a Raspberry Pi service, Java Web Service, and Android application that allow you to monitor every electrical breaker in your house, regardless of how many panels or breakers you have. \[*GNU GPLv3*\] (⭐️72)
@@ -275,36 +275,36 @@ Total starred repositories: `613`
 ## JavaScript
 
   - [Arubinu/pixoo-display](https://github.com/Arubinu/pixoo-display) -  (⭐️3)
-  - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀 \[*MIT License*\] (⭐️20514)
-  - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY! (⭐️4491)
-  - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs \[*Creative Commons Attribution 4.0 International*\] (⭐️116217)
+  - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀 \[*MIT License*\] (⭐️20515)
+  - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY! (⭐️4493)
+  - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs \[*Creative Commons Attribution 4.0 International*\] (⭐️116249)
   - [cjihrig/jsparser](https://github.com/cjihrig/jsparser) - An ECMAScript 5.1 parser, written in JavaScript.  The ECMAScript grammar was created using Jison. \[*MIT License*\] (⭐️97) *Archived!*
   - [claudiajs/claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily \[*MIT License*\] (⭐️3785)
   - [cloudflare-apps/smart-underline](https://github.com/cloudflare-apps/smart-underline) - Readable and beautiful underlines for every website. \[*MIT License*\] (⭐️735)
   - [coreyti/syncopate](https://github.com/coreyti/syncopate) - A very simple rich text editor (RTE) in jQuery and Disco (⭐️10)
   - [crcn/node-supervisord](https://github.com/crcn/node-supervisord) - Supervisord library for node.js \[*MIT License*\] (⭐️67) *Archived!*
   - [CyrisXD/Pwnagetty](https://github.com/CyrisXD/Pwnagetty) - Pwnagotchi automation - get your handshakes and convert in one go.  (⭐️149)
-  - [dariusk/corpora](https://github.com/dariusk/corpora) - A collection of small corpuses of interesting data for the creation of bots and similar stuff. (⭐️4742)
+  - [dariusk/corpora](https://github.com/dariusk/corpora) - A collection of small corpuses of interesting data for the creation of bots and similar stuff. (⭐️4743)
   - [dat-ecosystem/dat](https://github.com/dat-ecosystem/dat) - :floppy_disk: peer-to-peer sharing & live syncronization of files via command line \[*Modified BSD License*\] (⭐️8219)
   - [davidmerfield/randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive colors \[*Creative Commons Zero v1.0 Universal*\] (⭐️6012)
-  - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! \[*MIT License*\] (⭐️8085)
-  - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers \[*MIT License*\] (⭐️10851)
-  - [designmodo/Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites. \[*MIT License*\] (⭐️15041)
+  - [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here! \[*MIT License*\] (⭐️8088)
+  - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers \[*MIT License*\] (⭐️10852)
+  - [designmodo/Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites. \[*MIT License*\] (⭐️15042)
   - [developmentseed/openlayers_plus](https://github.com/developmentseed/openlayers_plus) - Additional tools and behaviors for OpenLayers. (⭐️62)
   - [devongovett/reader](https://github.com/devongovett/reader) - An API Compatible Replacement for Google Reader (⭐️355)
-  - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React \[*MIT License*\] (⭐️13309)
+  - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React \[*MIT License*\] (⭐️13313)
   - [diy/jquery-placeholder](https://github.com/diy/jquery-placeholder) - A jQuery plugin that polyfills the HTML5 "placeholder" attribute. (⭐️76)
   - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows \[*Apache License 2.0*\] (⭐️12257) *Archived!*
   - [emilioforrer/haml_coffee_assets](https://github.com/emilioforrer/haml_coffee_assets) - Haml Coffee templates in the Rails asset pipeline or as Sprockets engine. \[*MIT License*\] (⭐️441)
-  - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit (⭐️72377)
-  - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown \[*Apache License 2.0*\] (⭐️25870)
+  - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit (⭐️72378)
+  - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown \[*Apache License 2.0*\] (⭐️25871)
   - [gridgrid/grid](https://github.com/gridgrid/grid) - A highly scalable grid component written in javascript \[*MIT License*\] (⭐️25)
-  - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites. \[*MIT License*\] (⭐️55358)
+  - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites. \[*MIT License*\] (⭐️55362)
   - [hakimel/Ladda](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators. \[*MIT License*\] (⭐️7880)
-  - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot. \[*MIT License*\] (⭐️16470)
+  - [hubotio/hubot](https://github.com/hubotio/hubot) - A customizable life embetterment robot. \[*MIT License*\] (⭐️16469)
   - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill. \[*MIT License*\] (⭐️25773)
   - [jenslind/electron-positioner](https://github.com/jenslind/electron-positioner) - :pushpin: Helps positioning your electron windows. (⭐️237)
-  - [jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) - qrcode generation standalone (doesn't depend on external services) \[*MIT License*\] (⭐️4807)
+  - [jeromeetienne/jquery-qrcode](https://github.com/jeromeetienne/jquery-qrcode) - qrcode generation standalone (doesn't depend on external services) \[*MIT License*\] (⭐️4806)
   - [jipegit/OSXAuditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool (⭐️3129)
   - [jishi/node-sonos-discovery](https://github.com/jishi/node-sonos-discovery) - Simplified framework for Sonos built on node.js \[*MIT License*\] (⭐️144)
   - [johnagan/serverless-slack-app](https://github.com/johnagan/serverless-slack-app) - A Serverless.js Slack App Boilerplate with OAuth and Bot actions \[*MIT License*\] (⭐️223)
@@ -312,27 +312,27 @@ Total starred repositories: `613`
   - [josh/css-explain](https://github.com/josh/css-explain) - SQL EXPLAIN for CSS selectors \[*MIT License*\] (⭐️1072) *Archived!*
   - [justindarc/jquery.contenteditable](https://github.com/justindarc/jquery.contenteditable) - jQuery Plugin for a contenteditable-based WYSIWYG Editor (⭐️6)
   - [KartikTalwar/gmail.js](https://github.com/KartikTalwar/gmail.js) - Gmail JavaScript API \[*MIT License*\] (⭐️3666)
-  - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. \[*MIT License*\] (⭐️17133)
+  - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web. \[*MIT License*\] (⭐️17135)
   - [kenkeiter/skeuocard](https://github.com/kenkeiter/skeuocard) - Skeuocard progressively enhances credit card inputs to provide a skeuomorphic interface. \[*MIT License*\] (⭐️3247)
   - [krvarma/particle-alexa-smart-home-skill](https://github.com/krvarma/particle-alexa-smart-home-skill) - Particle and Alexa Smart Home Skill (⭐️41)
   - [Leaflet/Leaflet.heat](https://github.com/Leaflet/Leaflet.heat) - A tiny, simple and fast heatmap plugin for Leaflet. \[*BSD 2-Clause "Simplified" License*\] (⭐️1448)
   - [likhter/planningpoker](https://github.com/likhter/planningpoker) -  (⭐️1)
   - [lowdefy/lowdefy](https://github.com/lowdefy/lowdefy) - The config web stack for business apps - build internal tools, client portals, web apps, admin panels, dashboards, web sites, and CRUD apps with YAML or JSON. \[*Apache License 2.0*\] (⭐️2426)
   - [mattrobenolt/node_nibbler](https://github.com/mattrobenolt/node_nibbler) - Base32/base64 encode/decode library for Node (⭐️43)
-  - [mcollina/autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js \[*MIT License*\] (⭐️7290)
+  - [mcollina/autocannon](https://github.com/mcollina/autocannon) - fast HTTP/1.1 benchmarking tool written in Node.js \[*MIT License*\] (⭐️7291)
   - [mergeability/mergeable](https://github.com/mergeability/mergeable) - 🤖 All the missing GitHub automation 🙂 🙌  \[*GNU AGPLv3*\] (⭐️638)
   - [mmims/sublime-text-2-ruby-markers](https://github.com/mmims/sublime-text-2-ruby-markers) - Execute and Update '# =>' Markers using xmpfilter from the rcodetools gem. (⭐️77)
   - [moxie0/Convergence](https://github.com/moxie0/Convergence) - An agile, distributed, and secure alternative to the Certificate Authority system. (⭐️624)
   - [mozilla/chromeless](https://github.com/mozilla/chromeless) - DEPRECATED - Build desktop applications with web technologies. (⭐️761) *Archived!*
-  - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story (⭐️46876)
+  - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story (⭐️46877)
   - [nasa/openmct](https://github.com/nasa/openmct) - A web based mission control framework.  (⭐️11091)
-  - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome! \[*MIT License*\] (⭐️24762)
-  - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc. \[*MIT License*\] (⭐️4510)
+  - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome! \[*MIT License*\] (⭐️24761)
+  - [ohmjs/ohm](https://github.com/ohmjs/ohm) - A library and language for building parsers, interpreters, compilers, etc. \[*MIT License*\] (⭐️4511)
   - [philhawksworth/social-image-generator](https://github.com/philhawksworth/social-image-generator) - A utility to generate the images for social networks on hawksworx.com (⭐️62)
-  - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. \[*MIT License*\] (⭐️46857)
-  - [qiao/PathFinding.js](https://github.com/qiao/PathFinding.js) - A comprehensive path-finding library for grid based games (⭐️8134)
+  - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. \[*MIT License*\] (⭐️46862)
+  - [qiao/PathFinding.js](https://github.com/qiao/PathFinding.js) - A comprehensive path-finding library for grid based games (⭐️8135)
   - [rails/jquery-ujs](https://github.com/rails/jquery-ujs) - Ruby on Rails unobtrusive scripting adapter for jQuery \[*MIT License*\] (⭐️2610)
-  - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core \[*Apache License 2.0*\] (⭐️8459)
+  - [rawgraphs/rawgraphs-app](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core \[*Apache License 2.0*\] (⭐️8458)
   - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies \[*ISC License*\] (⭐️11808)
   - [repository-settings/app](https://github.com/repository-settings/app) - Pull Requests for GitHub repository settings \[*ISC License*\] (⭐️845)
   - [richtea/route53_dyndns](https://github.com/richtea/route53_dyndns) - Dynamic DNS for Route53 via dyndns2 protocol \[*MIT License*\] (⭐️1)
@@ -340,35 +340,35 @@ Total starred repositories: `613`
   - [RobinBrouwer/gritter](https://github.com/RobinBrouwer/gritter) - This Ruby on Rails gem allows you to easily add Growl-like notifications to your application using a jQuery plugin called 'gritter'. (⭐️570)
   - [samyk/poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. (⭐️6036)
   - [scripting/river5](https://github.com/scripting/river5) - A river-of-news RSS aggregator in JS running in Node. \[*MIT License*\] (⭐️427)
-  - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams \[*MIT License*\] (⭐️9717)
+  - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams \[*MIT License*\] (⭐️9719)
   - [serverless/serverless-graphql-blog](https://github.com/serverless/serverless-graphql-blog) - A Serverless Blog leveraging GraphQL to offer a REST API with only 1 endpoint using Serverless v0.5 (⭐️795)
   - [shawnmclean/Idle.js](https://github.com/shawnmclean/Idle.js) - Javascript activity library for the browser. (away, idle, etc) (⭐️400)
   - [simap/Firestorm](https://github.com/simap/Firestorm) - Pixelblaze Firestorm is a centralized control console for Pixelblaze WiFi LED controllers (⭐️69)
-  - [slap-editor/slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor \[*MIT License*\] (⭐️6114)
-  - [SlexAxton/css-colorguard](https://github.com/SlexAxton/css-colorguard) - Keep a watchful eye on your css colors. (⭐️2446)
+  - [slap-editor/slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor \[*MIT License*\] (⭐️6113)
+  - [SlexAxton/css-colorguard](https://github.com/SlexAxton/css-colorguard) - Keep a watchful eye on your css colors. (⭐️2447)
   - [sparkfun/phant](https://github.com/sparkfun/phant) - the data logging engine behind data.sparkfun.com (⭐️700) *Archived!*
   - [SparkPost/heml](https://github.com/SparkPost/heml) - HEML is an open source markup language for building responsive email. \[*MIT License*\] (⭐️4336)
   - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing \[*MIT License*\] (⭐️10909)
   - [spine/spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications \[*MIT License*\] (⭐️3643)
   - [ssbc/ssb-db](https://github.com/ssbc/ssb-db) - A database of unforgeable append-only feeds, optimized for efficient replication for peer to peer protocols \[*MIT License*\] (⭐️1175)
-  - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation \[*MIT License*\] (⭐️17263)
-  - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader \[*MIT License*\] (⭐️12701)
-  - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy \[*MIT License*\] (⭐️25396)
+  - [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation \[*MIT License*\] (⭐️17262)
+  - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader \[*MIT License*\] (⭐️12703)
+  - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy \[*MIT License*\] (⭐️25397)
   - [topojson/topojson](https://github.com/topojson/topojson) - An extension of GeoJSON that encodes topology! 🌐 (⭐️4516)
-  - [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari. \[*GNU GPLv3*\] (⭐️8138) *Archived!*
+  - [uBlock-LLC/uBlock](https://github.com/uBlock-LLC/uBlock) - uBlock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari. \[*GNU GPLv3*\] (⭐️8139) *Archived!*
   - [webianproject/shell](https://github.com/webianproject/shell) - Webian Shell - A graphical shell for the web (desktop version) \[*GNU GPLv3*\] (⭐️133)
   - [WhiteHouse/petitions](https://github.com/WhiteHouse/petitions) - Drupal installation profile powering We The People at petitions.whitehouse.gov (⭐️1146) *Archived!*
   - [witoldsz/angular-http-auth](https://github.com/witoldsz/angular-http-auth) -  \[*MIT License*\] (⭐️2386)
   - [WorldWideTelescope/wwt-web-client](https://github.com/WorldWideTelescope/wwt-web-client) - The WorldWide Telescope web client lets you explore the universe in your browser. \[*MIT License*\] (⭐️100)
-  - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript \[*MIT License*\] (⭐️15279)
-  - [Yomguithereal/react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed. \[*MIT License*\] (⭐️4420) 
+  - [yaronn/blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript \[*MIT License*\] (⭐️15278)
+  - [Yomguithereal/react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed. \[*MIT License*\] (⭐️4421) 
 
 **[⬆ back to top](#contents)**
 
 ## Jupyter Notebook
 
   - [bencbartlett/3D-printed-mirror-array](https://github.com/bencbartlett/3D-printed-mirror-array) - 3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns \[*MIT License*\] (⭐️2360)
-  - [ocropus-archive/DUP-ocropy](https://github.com/ocropus-archive/DUP-ocropy) - Python-based tools for document analysis and OCR \[*Apache License 2.0*\] (⭐️3352) 
+  - [ocropus-archive/DUP-ocropy](https://github.com/ocropus-archive/DUP-ocropy) - Python-based tools for document analysis and OCR \[*Apache License 2.0*\] (⭐️3353) 
 
 **[⬆ back to top](#contents)**
 
@@ -380,13 +380,13 @@ Total starred repositories: `613`
 
 ## Makefile
 
-  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️20205) 
+  - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources. (⭐️20214) 
 
 **[⬆ back to top](#contents)**
 
 ## Nunjucks
 
-  - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. \[*MIT License*\] (⭐️58057) 
+  - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. \[*MIT License*\] (⭐️58064) 
 
 **[⬆ back to top](#contents)**
 
@@ -397,7 +397,7 @@ Total starred repositories: `613`
   - [brotherbard/gitx](https://github.com/brotherbard/gitx) - Experimental fork of Pieter's nice git GUI for OS X. Includes: sidebar, fetch, pull, push, add remote, merge, cherry-pick, rebase, clone, clone to. Mac OS X 10.5+ (see wiki for screenshot) (⭐️1509)
   - [eczarny/spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse. (⭐️13556) *Archived!*
   - [jarnoh/cordova-dnssd](https://github.com/jarnoh/cordova-dnssd) - Cordova (PhoneGap) plugin for Bonjour based DNS-SD queries.  Enables local service discovery on iOS and OS X. (⭐️30)
-  - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (⭐️6241)
+  - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line. (⭐️6243)
   - [kasper/phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript (⭐️4039)
   - [mxcl/Audioscrobbler.app](https://github.com/mxcl/Audioscrobbler.app) - Minimal, robust iTunes scrobbling (⭐️139)
   - [SamRothCA/Today-Scripts](https://github.com/SamRothCA/Today-Scripts) - A widget for running scripts in the Today View in OS X Yosemite's Notification Center (⭐️1586)
@@ -411,7 +411,7 @@ Total starred repositories: `613`
 
 ## OpenSCAD
 
-  - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library \[*GNU GPLv3*\] (⭐️1272) 
+  - [rsheldiii/KeyV2](https://github.com/rsheldiii/KeyV2) - KeyV2: A Parametric Mechanical Keycap Library \[*GNU GPLv3*\] (⭐️1271) 
 
 **[⬆ back to top](#contents)**
 
@@ -419,15 +419,15 @@ Total starred repositories: `613`
 
   - [astrobleem/askwolfram](https://github.com/astrobleem/askwolfram) - Amazon Echo Skill "Ask Wolfram" (⭐️30)
   - [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts (⭐️885)
-  - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.  \[*GNU GPLv2*\] (⭐️4400) 
+  - [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.  \[*GNU GPLv2*\] (⭐️4402) 
 
 **[⬆ back to top](#contents)**
 
 ## Python
 
-  - [ajbrock/Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - A simple interface for editing natural photos with generative neural networks. \[*MIT License*\] (⭐️2075)
+  - [ajbrock/Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - A simple interface for editing natural photos with generative neural networks. \[*MIT License*\] (⭐️2076)
   - [andys/qrscanner](https://github.com/andys/qrscanner) - Ruby Gem which wraps ZXing QR decoder library (C++) and ImageMagick (⭐️28)
-  - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ \[*MIT License*\] (⭐️6467)
+  - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ \[*MIT License*\] (⭐️6469)
   - [apenwarr/sshuttle](https://github.com/apenwarr/sshuttle) - Wrong project!  You should head over to http://github.com/sshuttle/sshuttle (⭐️8915)
   - [awslabs/route53-dynamic-dns-with-lambda](https://github.com/awslabs/route53-dynamic-dns-with-lambda) - A Dynamic DNS system built with API Gateway, Lambda & Route 53.  \[*Apache License 2.0*\] (⭐️458)
   - [benevpi/PicoPythonHub75](https://github.com/benevpi/PicoPythonHub75) -  \[*GNU GPLv3*\] (⭐️38)
@@ -437,34 +437,34 @@ Total starred repositories: `613`
   - [danielfernau/unifi-protect-video-downloader](https://github.com/danielfernau/unifi-protect-video-downloader) - Tool for downloading footage from a local UniFi Protect system \[*MIT License*\] (⭐️407)
   - [DataDog/dd-agent](https://github.com/DataDog/dd-agent) - Datadog Agent Version 5 (⭐️1291)
   - [davea/sonoff-mqtt](https://github.com/davea/sonoff-mqtt) - MicroPython scripts to control Sonoff/ESP8266 using MQTT \[*BSD 2-Clause "Simplified" License*\] (⭐️57)
-  - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting \[*Modified BSD License*\] (⭐️11357)
+  - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting \[*Modified BSD License*\] (⭐️11360)
   - [derHeinz/divoom-adapter](https://github.com/derHeinz/divoom-adapter) - Implementation of divoom-aurabox \[*GNU GPLv3*\] (⭐️191)
   - [divegeek/uscode](https://github.com/divegeek/uscode) - The United States Code (⭐️779)
   - [docker-archive/docker-registry](https://github.com/docker-archive/docker-registry) - This is **DEPRECATED**! Please go to https://github.com/docker/distribution \[*Apache License 2.0*\] (⭐️2880) *Archived!*
-  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️232571)
-  - [dupontgu/retro-ipod-spotify-client](https://github.com/dupontgu/retro-ipod-spotify-client) - The software that powers the sPot: a 4th generation "Click Wheel" iPod with a full Spotify client. \[*Apache License 2.0*\] (⭐️806)
+  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️232653)
+  - [dupontgu/retro-ipod-spotify-client](https://github.com/dupontgu/retro-ipod-spotify-client) - The software that powers the sPot: a 4th generation "Click Wheel" iPod with a full Spotify client. \[*Apache License 2.0*\] (⭐️808)
   - [dustin/twitterspy](https://github.com/dustin/twitterspy) - A twitter <-> XMPP gateway with search and track and other good stuff. (⭐️79) *Archived!*
   - [erikcw/pycirculate](https://github.com/erikcw/pycirculate) - A Python wrapper library for interacting with the Anova 2 over Bluetooth LE on Linux. (⭐️61)
   - [ghoff/oathotp](https://github.com/ghoff/oathotp) - Online oath (hotp) validator running on google app engine \[*GNU GPLv2*\] (⭐️3)
   - [guanqun/git-punchcard-plot](https://github.com/guanqun/git-punchcard-plot) - a tool to visualize the time distribution of commits (⭐️170)
   - [guyc/py-gaugette](https://github.com/guyc/py-gaugette) - Python library to support building hardware gadgets with the Raspberry Pi and BeagleBone Black \[*GNU LGPLv3*\] (⭐️120)
   - [Hexxeh/libpebble](https://github.com/Hexxeh/libpebble) - Interact with your Pebble from any device \[*MIT License*\] (⭐️450)
-  - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. \[*Apache License 2.0*\] (⭐️63582)
+  - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. \[*Apache License 2.0*\] (⭐️63593)
   - [HoroTW/pixoo-awesome](https://github.com/HoroTW/pixoo-awesome) - Uses the pixoo-client to display interactive data (custom clock, cpu load, ram, git status, ....) on a Pixoo-Max. (⭐️14)
   - [iancmcc/ouimeaux](https://github.com/iancmcc/ouimeaux) - Python API to Belkin WeMo devices \[*Modified BSD License*\] (⭐️573) *Archived!*
   - [ilektrojohn/creepy](https://github.com/ilektrojohn/creepy) - A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. \[*GNU GPLv3*\] (⭐️1162)
   - [jcrocholl/rostock](https://github.com/jcrocholl/rostock) - Delta robot 3D printer. (⭐️208)
-  - [jesolem/PCV](https://github.com/jesolem/PCV) - Open source Python module for computer vision \[*BSD 2-Clause "Simplified" License*\] (⭐️1904)
+  - [jesolem/PCV](https://github.com/jesolem/PCV) - Open source Python module for computer vision \[*BSD 2-Clause "Simplified" License*\] (⭐️1905)
   - [lizadaly/nanogenmo2014](https://github.com/lizadaly/nanogenmo2014) - Seraphs: Procedurally generated Voynich Manuscript, produced for NaNoGenMo 2014 \[*Creative Commons Zero v1.0 Universal*\] (⭐️106)
   - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) \[*GNU GPLv3*\] (⭐️13753)
   - [LukeMurphy/RPI](https://github.com/LukeMurphy/RPI) -  (⭐️3)
   - [mailgun/talon](https://github.com/mailgun/talon) -  \[*Apache License 2.0*\] (⭐️1232)
   - [makermusings/fauxmo](https://github.com/makermusings/fauxmo) - Emulated Belkin WeMo devices that work with the Amazon Echo \[*MIT License*\] (⭐️521)
-  - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell (⭐️3226)
+  - [mooz/percol](https://github.com/mooz/percol) - adds flavor of interactive filtering to the traditional pipe concept of UNIX shell (⭐️3227)
   - [msanders/cider](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew. \[*MIT License*\] (⭐️841) *Archived!*
   - [mzucker/noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs \[*MIT License*\] (⭐️4771)
   - [n1k0/SublimeHighlight](https://github.com/n1k0/SublimeHighlight) - A humble SublimeText package for exporting highlighted code as RTF or HTML \[*MIT License*\] (⭐️788) *Archived!*
-  - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement) (⭐️6435)
+  - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement) (⭐️6438)
   - [newsapps/beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications). \[*MIT License*\] (⭐️6351)
   - [openyou/libfitbit](https://github.com/openyou/libfitbit) - Library for accessing and transfering data from the Fitbit health device \[*Modified BSD License*\] (⭐️421) *Archived!*
   - [opulo-inc/lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine. \[*GNU GPLv3*\] (⭐️2077)
@@ -473,18 +473,18 @@ Total starred repositories: `613`
   - [pklaus/ds1054z](https://github.com/pklaus/ds1054z) - Python package for the Rigol DS1054Z Oscilloscope (⭐️170)
   - [progrium/hookah](https://github.com/progrium/hookah) - Asynchronous HTTP request dispatcher for webhooks \[*MIT License*\] (⭐️144)
   - [rdpoor/rigol-grab](https://github.com/rdpoor/rigol-grab) - Capture Rigol DS1054Z Oscilloscope display as a .png file \[*MIT License*\] (⭐️117)
-  - [rsms/inter](https://github.com/rsms/inter) - The Inter font family \[*SIL Open Font License 1.1*\] (⭐️15842)
+  - [rsms/inter](https://github.com/rsms/inter) - The Inter font family \[*SIL Open Font License 1.1*\] (⭐️15849)
   - [rss-sync/corpus](https://github.com/rss-sync/corpus) - A corpus of RSS feed data. (⭐️28)
-  - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:  \[*Apache License 2.0*\] (⭐️13563)
+  - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:  \[*Apache License 2.0*\] (⭐️13564)
   - [sebest/airthings_wave_plus_exporter](https://github.com/sebest/airthings_wave_plus_exporter) - Prometheus exporter for Airthings Wave Plus (Indoor air quality plus radon) \[*MIT License*\] (⭐️3)
-  - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net \[*Apache License 2.0*\] (⭐️13017)
+  - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net \[*Apache License 2.0*\] (⭐️13020)
   - [ttsiodras/utils](https://github.com/ttsiodras/utils) - Short shell/perl/python utils I wrote that I use every day. (⭐️113)
   - [twissandra/twissandra](https://github.com/twissandra/twissandra) - Twissandra is an example project, created to learn and demonstrate how to use Cassandra. Running the project will present a website that has similar functionality to Twitter. \[*Apache License 2.0*\] (⭐️802) *Archived!*
   - [ubergeek42/lambda-letsencrypt](https://github.com/ubergeek42/lambda-letsencrypt) - Free Lets-Encrypt certificate management for CloudFront/AWS \[*MIT License*\] (⭐️211)
   - [USArmyResearchLab/Dshell](https://github.com/USArmyResearchLab/Dshell) - Dshell is a network forensic analysis framework. (⭐️5411)
   - [wardi/speedometer](https://github.com/wardi/speedometer) - Chart network TX/RX and file download rates on the console \[*GNU LGPLv2.1*\] (⭐️203)
   - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc.. \[*MIT License*\] (⭐️2472)
-  - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework \[*GNU GPLv3*\] (⭐️12190)
+  - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework \[*GNU GPLv3*\] (⭐️12192)
   - [xavdid/universal-test-runner](https://github.com/xavdid/universal-test-runner) - A language-agnostic, zero-configuration test invoker \[*MIT License*\] (⭐️18)
   - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers \[*MIT License*\] (⭐️6488)
   - [Yinzo/reprint](https://github.com/Yinzo/reprint) - a Python 2/3 module for binding variables and refreshing multi-line output in terminal. \[*Apache License 2.0*\] (⭐️165) 
@@ -493,7 +493,7 @@ Total starred repositories: `613`
 
 ## Roff
 
-  - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management \[*MIT License*\] (⭐️33862) 
+  - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management \[*MIT License*\] (⭐️33875) 
 
 **[⬆ back to top](#contents)**
 
@@ -543,8 +543,8 @@ Total starred repositories: `613`
   - [dennisreimann/masq](https://github.com/dennisreimann/masq) - Mountable Rails engine that provides OpenID server/identity provider functionality \[*MIT License*\] (⭐️84) *Archived!*
   - [diaspora/diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network. \[*GNU AGPLv3*\] (⭐️13302)
   - [dirtyfilthy/lulz](https://github.com/dirtyfilthy/lulz) - lulz: automated webstalking tool (⭐️50)
-  - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. \[*GNU GPLv2*\] (⭐️38966)
-  - [drapergem/draper](https://github.com/drapergem/draper) - Decorators/View-Models for Rails Applications \[*MIT License*\] (⭐️5190)
+  - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. \[*GNU GPLv2*\] (⭐️38970)
+  - [drapergem/draper](https://github.com/drapergem/draper) - Decorators/View-Models for Rails Applications \[*MIT License*\] (⭐️5191)
   - [drnic/ruby-saml-idp-rails3-example](https://github.com/drnic/ruby-saml-idp-rails3-example) -  (⭐️18)
   - [dryruby/openpgp.rb](https://github.com/dryruby/openpgp.rb) - [Retired] OpenPGP.rb is a pure-Ruby implementation of the OpenPGP Message Format (RFC 4880). \[*The Unlicense*\] (⭐️113) *Archived!*
   - [edavis10/redmine](https://github.com/edavis10/redmine) - Redmine is a flexible project management web application written using Ruby on Rails framework.  http://github.com/edavis10/redmine is the official git mirror of the svn repository (⭐️2457)
@@ -558,22 +558,22 @@ Total starred repositories: `613`
   - [frozon/passbook](https://github.com/frozon/passbook) - Passbook gem let's you create pkpass for passbook iOS 6 \[*MIT License*\] (⭐️235)
   - [fugalh/rosc](https://github.com/fugalh/rosc) - OpenSound Control for Ruby (⭐️16)
   - [github/secure_headers](https://github.com/github/secure_headers) - Manages application of security headers with many safe defaults \[*MIT License*\] (⭐️3108)
-  - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend. \[*MIT License*\] (⭐️13327)
+  - [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend. \[*MIT License*\] (⭐️13325)
   - [halostatue/color](https://github.com/halostatue/color) - Color tools for Ruby. (⭐️132)
   - [hanami/hanami](https://github.com/hanami/hanami) - The web, with simplicity. \[*MIT License*\] (⭐️6128)
-  - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden. \[*MIT License*\] (⭐️23449)
+  - [heartcombo/devise](https://github.com/heartcombo/devise) - Flexible authentication solution for Rails with Warden. \[*MIT License*\] (⭐️23450)
   - [Houdini/two_factor_authentication](https://github.com/Houdini/two_factor_authentication) - Two factor authentication extension for Devise \[*MIT License*\] (⭐️395)
   - [igor-alexandrov/wisepdf](https://github.com/igor-alexandrov/wisepdf) - Wkhtmltopdf wrapper done right \[*MIT License*\] (⭐️282)
   - [indirect/rails-footnotes](https://github.com/indirect/rails-footnotes) - Every Rails page has footnotes that gives information about your application and links back to your editor \[*MIT License*\] (⭐️1476)
   - [insoshi/insoshi](https://github.com/insoshi/insoshi) - An open source social networking platform in Ruby on Rails \[*MIT License*\] (⭐️1577)
-  - [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc. \[*GNU AGPLv3*\] (⭐️5053)
+  - [instructure/canvas-lms](https://github.com/instructure/canvas-lms) - The open LMS by Instructure, Inc. \[*GNU AGPLv3*\] (⭐️5056)
   - [integrallis/stripe_event](https://github.com/integrallis/stripe_event) - Stripe webhook integration for Rails applications. \[*MIT License*\] (⭐️816)
   - [integrity/integrity](https://github.com/integrity/integrity) - Continuous Integration server \[*MIT License*\] (⭐️676) *Archived!*
   - [javan/whenever](https://github.com/javan/whenever) - Cron jobs in Ruby \[*MIT License*\] (⭐️8747)
   - [jbarnette/johnson](https://github.com/jbarnette/johnson) - Johnson wraps JavaScript in a loving Ruby embrace. (⭐️464) *Archived!*
   - [jberkel/interactive_editor](https://github.com/jberkel/interactive_editor) - interactive editor in irb \[*MIT License*\] (⭐️277)
-  - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby \[*MIT License*\] (⭐️47438)
-  - [jeremyevans/sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby (⭐️4847)
+  - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby \[*MIT License*\] (⭐️47441)
+  - [jeremyevans/sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby (⭐️4848)
   - [jontg/Chronodex](https://github.com/jontg/Chronodex) - Automatically Generate a Chronodex graphic of your day \[*MIT License*\] (⭐️6)
   - [jontg/kindle-weather](https://github.com/jontg/kindle-weather) - A collection of moving parts necessary to display stuff on my jailbroken Kindle DX (⭐️6)
   - [jugyo/tunnels](https://github.com/jugyo/tunnels) - https --(--)--> http (⭐️374)
@@ -596,14 +596,14 @@ Total starred repositories: `613`
   - [mislav/haml](https://github.com/mislav/haml) - HTML Abstraction Markup Language - A Markup Haiku \[*MIT License*\] (⭐️9)
   - [mojombo/grit](https://github.com/mojombo/grit) - **Grit is no longer maintained. Check out libgit2/rugged.** Grit gives you object oriented read/write access to Git repositories via Ruby. \[*MIT License*\] (⭐️1962)
   - [nakajima/aspectory](https://github.com/nakajima/aspectory) - Callbacks for your classes (⭐️25)
-  - [nanoc/nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system \[*MIT License*\] (⭐️2066)
+  - [nanoc/nanoc](https://github.com/nanoc/nanoc) - A powerful web publishing system \[*MIT License*\] (⭐️2065)
   - [nathanl/authority](https://github.com/nathanl/authority) - *CURRENTLY UNMAINTAINED*. Authority helps you authorize actions in your Rails app. It's ORM-neutral and has very little fancy syntax; just group your models under one or more Authorizer classes and write plain Ruby methods on them. \[*MIT License*\] (⭐️1220) *Archived!*
   - [nathansobo/treetop](https://github.com/nathansobo/treetop) - A Ruby-based parsing DSL based on parsing expression grammars. \[*MIT License*\] (⭐️1014)
   - [nbudin/devise_openid_authenticatable](https://github.com/nbudin/devise_openid_authenticatable) - OpenID authentication for Devise \[*MIT License*\] (⭐️100)
   - [nixme/jazz_hands](https://github.com/nixme/jazz_hands) - Pry-based enhancements for the default Rails 3 and 4 consoles \[*MIT License*\] (⭐️762)
   - [norman/squirm_rails](https://github.com/norman/squirm_rails) - Easily use and manage Postgres stored procedures with Active Record. (⭐️73) *Archived!*
   - [openid/ruby-openid](https://github.com/openid/ruby-openid) - OpenID library for Ruby (⭐️319) *Archived!*
-  - [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail) - Track changes to your rails models \[*MIT License*\] (⭐️6618)
+  - [paper-trail-gem/paper_trail](https://github.com/paper-trail-gem/paper_trail) - Track changes to your rails models \[*MIT License*\] (⭐️6619)
   - [pat/thinking-sphinx](https://github.com/pat/thinking-sphinx) - Sphinx/Manticore plugin for ActiveRecord/Rails \[*MIT License*\] (⭐️1622)
   - [peritor/webistrano](https://github.com/peritor/webistrano) - Webistrano is a Web UI for managing Capistrano deployments (⭐️880)
   - [peterc/pismo](https://github.com/peterc/pismo) - Extracts machine-readable metadata and content from Web pages (⭐️748)
@@ -615,13 +615,13 @@ Total starred repositories: `613`
   - [QueueClassic/queue_classic](https://github.com/QueueClassic/queue_classic) - Simple, efficient worker queue for Ruby & PostgreSQL. \[*MIT License*\] (⭐️1195)
   - [quirkey/resque-status](https://github.com/quirkey/resque-status) - resque-status is an extension to the resque queue system that provides simple trackable jobs. \[*MIT License*\] (⭐️519)
   - [r509/r509](https://github.com/r509/r509) - r509 is a Ruby gem built using OpenSSL that simplifies management of a public key infrastructure. The r509 API helps with CSR creation, signing/parsing of certificates, revocation (CRL/OCSP), and much more. Along with projects like r509-ocsp-responder & r509-ca-http it is a (RFC 5280) certificate authority suitable for production environments.  (⭐️131)
-  - [rails/rails](https://github.com/rails/rails) - Ruby on Rails \[*MIT License*\] (⭐️53685)
+  - [rails/rails](https://github.com/rails/rails) - Ruby on Rails \[*MIT License*\] (⭐️53689)
   - [rails/web-console](https://github.com/rails/web-console) - Rails Console on the Browser. \[*MIT License*\] (⭐️1357)
   - [RailsApps/rails-stripe-membership-saas](https://github.com/RailsApps/rails-stripe-membership-saas) - An example Rails 4.2 app with Stripe and the Payola gem for a membership or subscription site. (⭐️1138)
   - [railscasts/323-backbone-on-rails-part-1](https://github.com/railscasts/323-backbone-on-rails-part-1) -  (⭐️10)
   - [relevance/tarantula](https://github.com/relevance/tarantula) - a big hairy fuzzy spider that crawls your site, wreaking havoc \[*MIT License*\] (⭐️443)
   - [remi/teamocil](https://github.com/remi/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files. \[*MIT License*\] (⭐️2296)
-  - [resque/resque](https://github.com/resque/resque) - Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later. \[*MIT License*\] (⭐️9348)
+  - [resque/resque](https://github.com/resque/resque) - Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later. \[*MIT License*\] (⭐️9349)
   - [rest-client/rest-client](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions. \[*MIT License*\] (⭐️5225)
   - [ripta/color-tools](https://github.com/ripta/color-tools) - Fork of the color-tools gem (⭐️7)
   - [robertwahler/two_factor_authentication_example](https://github.com/robertwahler/two_factor_authentication_example) - Example Rails TFA application using Authlogic and Google Authenticator \[*MIT License*\] (⭐️36)
@@ -640,20 +640,20 @@ Total starred repositories: `613`
   - [sethvoltz/snippy](https://github.com/sethvoltz/snippy) - A fairly full featured Pastie clone on Rails. (⭐️2)
   - [sethvoltz/tunnels](https://github.com/sethvoltz/tunnels) - https --(--)--> http (⭐️1)
   - [sethvoltz/xmpp4r-simple](https://github.com/sethvoltz/xmpp4r-simple) - Jabber::Simple \[*GNU GPLv2*\] (⭐️2)
-  - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream. \[*MIT License*\] (⭐️6067)
+  - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream. \[*MIT License*\] (⭐️6069)
   - [skwp/dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen \[*BSD 2-Clause "Simplified" License*\] (⭐️6920)
   - [solutious/rudy](https://github.com/solutious/rudy) - Not your grandparents' EC2 deployment tool. \[*MIT License*\] (⭐️89)
   - [southwolf/pebble_tools](https://github.com/southwolf/pebble_tools) - Some useful tools to hack Pebble (⭐️17)
   - [square/cane](https://github.com/square/cane) - Code quality threshold checking as part of your build (⭐️1325)
   - [srushti/goldberg](https://github.com/srushti/goldberg) - Goldberg is a lightweight CI server written in Ruby which worries about Bundler & RVM so that you don't have to. (⭐️241)
-  - [stephencelis/ghi](https://github.com/stephencelis/ghi) - GitHub Issues on the command line. Use your $EDITOR, not your browser. (⭐️2140) *Archived!*
+  - [stephencelis/ghi](https://github.com/stephencelis/ghi) - GitHub Issues on the command line. Use your $EDITOR, not your browser. (⭐️2139) *Archived!*
   - [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker. \[*MIT License*\] (⭐️4223)
   - [teamcapybara/capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications \[*MIT License*\] (⭐️9888)
   - [technicalpickles/jeweler](https://github.com/technicalpickles/jeweler) - Opinionated tool for creating and managing Rubygem projects \[*MIT License*\] (⭐️1490)
   - [tenderlove/remotehash](https://github.com/tenderlove/remotehash) - An OpenDHT client library (⭐️9)
   - [therubymug/hitch](https://github.com/therubymug/hitch) - Git author attribution helper for pair programmers. \[*MIT License*\] (⭐️250)
-  - [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set \[*MIT License*\] (⭐️9102)
-  - [thoughtbot/paperclip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord (⭐️9056) *Archived!*
+  - [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set \[*MIT License*\] (⭐️9103)
+  - [thoughtbot/paperclip](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord (⭐️9055) *Archived!*
   - [titanous/yubikey](https://github.com/titanous/yubikey) - A Ruby library for verifying, decoding, decrypting and parsing Yubikey one-time passwords. \[*MIT License*\] (⭐️138) *Archived!*
   - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily \[*MIT License*\] (⭐️12155)
   - [tombenner/ru](https://github.com/tombenner/ru) - Ruby in your shell! \[*MIT License*\] (⭐️405)
@@ -683,7 +683,7 @@ Total starred repositories: `613`
   - [anima-engine/mrusty](https://github.com/anima-engine/mrusty) - mruby safe bindings for Rust \[*Mozilla Public License 2.0*\] (⭐️203)
   - [dixonwille/aws-ddns](https://github.com/dixonwille/aws-ddns) - AWS API Gateway and Lambda DDNS provider using Rust (⭐️8)
   - [hid-io/hid-io-core](https://github.com/hid-io/hid-io-core) - HID-IO Library and Daemon \[*GNU GPLv3*\] (⭐️63)
-  - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’. \[*MIT License*\] (⭐️22714)
+  - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’. \[*MIT License*\] (⭐️22717)
   - [thecasualcoder/gg](https://github.com/thecasualcoder/gg) - A tool to manage multiple git repositories \[*MIT License*\] (⭐️70)
   - [uasi/decone](https://github.com/uasi/decone) - Decrypt 1Password vault \[*MIT License*\] (⭐️2) 
 
@@ -691,7 +691,7 @@ Total starred repositories: `613`
 
 ## SMT
 
-  - [adafruit/Adafruit_CAD_Parts](https://github.com/adafruit/Adafruit_CAD_Parts) - CAD files for various boards, components and parts \[*MIT License*\] (⭐️884) 
+  - [adafruit/Adafruit_CAD_Parts](https://github.com/adafruit/Adafruit_CAD_Parts) - CAD files for various boards, components and parts \[*MIT License*\] (⭐️885) 
 
 **[⬆ back to top](#contents)**
 
@@ -718,40 +718,40 @@ Total starred repositories: `613`
 
   - [alestic/lambdash](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside AWS Lambda environment \[*Apache License 2.0*\] (⭐️529)
   - [bobthecow/git-flow-completion](https://github.com/bobthecow/git-flow-completion) - Bash, Zsh and fish completion support for git-flow. \[*MIT License*\] (⭐️2788)
-  - [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408 \[*Apache License 2.0*\] (⭐️8357) *Archived!*
+  - [boot2docker/boot2docker](https://github.com/boot2docker/boot2docker) - DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408 \[*Apache License 2.0*\] (⭐️8356) *Archived!*
   - [cbowns/fitbit](https://github.com/cbowns/fitbit) - Improvements to the Fitbit software on OS X (⭐️26)
   - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada: \[*ISC License*\] (⭐️106496)
-  - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications \[*MIT License*\] (⭐️25099)
+  - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications \[*MIT License*\] (⭐️25101)
   - [hendricius/the-bread-code](https://github.com/hendricius/the-bread-code) - Learn how to master the art of baking the programmer way. \[*MIT License*\] (⭐️4017)
   - [henrik-muehe/docker-ssh](https://github.com/henrik-muehe/docker-ssh) - SSH into all local Docker containers by name. (⭐️82)
   - [HJewkes/dotfiles](https://github.com/HJewkes/dotfiles) - Personal dotfiles fork \[*MIT License*\] (⭐️2)
   - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles \[*MIT License*\] (⭐️7003)
   - [jabyrd3/beepberry-sidebutton-helper](https://github.com/jabyrd3/beepberry-sidebutton-helper) - Install script to add some programmable-button functionality to beepberry (⭐️8)
   - [jpetazzo/nsenter](https://github.com/jpetazzo/nsenter) -  \[*Apache License 2.0*\] (⭐️2585) *Archived!*
-  - [jwiegley/git-scripts](https://github.com/jwiegley/git-scripts) - A bunch of random scripts I've either written, downloaded or clipped from #git. (⭐️1324)
-  - [kchristensen/udm-le](https://github.com/kchristensen/udm-le) - Let's Encrypt support for Ubiquiti UniFi OS \[*MIT License*\] (⭐️472)
-  - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS \[*MIT License*\] (⭐️29381)
+  - [jwiegley/git-scripts](https://github.com/jwiegley/git-scripts) - A bunch of random scripts I've either written, downloaded or clipped from #git. (⭐️1325)
+  - [kchristensen/udm-le](https://github.com/kchristensen/udm-le) - Let's Encrypt support for Ubiquiti UniFi OS \[*MIT License*\] (⭐️473)
+  - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS \[*MIT License*\] (⭐️29382)
   - [mrsimonemms/gitpod-k3s-guide](https://github.com/mrsimonemms/gitpod-k3s-guide) - Guide for installing Gitpod on a k3s cluster \[*MIT License*\] (⭐️46) *Archived!*
-  - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model. (⭐️26316)
-  - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment \[*MIT License*\] (⭐️15380)
+  - [nvie/gitflow](https://github.com/nvie/gitflow) - Git extensions to provide high-level repository operations for Vincent Driessen's branching model. (⭐️26318)
+  - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment \[*MIT License*\] (⭐️15377)
   - [rbenv/ruby-build](https://github.com/rbenv/ruby-build) - Compile and install Ruby \[*MIT License*\] (⭐️3800)
   - [shellfire-dev/shellfire](https://github.com/shellfire-dev/shellfire) - A repository of namespaced, composable shell (bash, sh and dash) function libraries. Takes aware the pain of shell scripting, making it robust and reusable. Includes secure curl usage, JSON, XML and Debian control file parsers, dependency documentation via attributes, and more. Batteries ARE included. (⭐️1188)
-  - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh \[*MIT License*\] (⭐️13572)
+  - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh \[*MIT License*\] (⭐️13575)
   - [strafplanet/beepy-battery](https://github.com/strafplanet/beepy-battery) - simple script to read a corrected battery percentage on the beepy / beepberry \[*GNU GPLv3*\] (⭐️8)
   - [StreisandEffect/streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists. (⭐️23046) *Archived!*
   - [swaroopch/dotbash](https://github.com/swaroopch/dotbash) - DEFUNCT, *no longer used* ; My Bash setup, based on revans/bash-it framework (⭐️37) *Archived!*
-  - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager \[*MIT License*\] (⭐️10195)
-  - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices \[*GNU GPLv3*\] (⭐️3499)
+  - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager \[*MIT License*\] (⭐️10202)
+  - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices \[*GNU GPLv3*\] (⭐️3500)
   - [vmstan/gravity-sync](https://github.com/vmstan/gravity-sync) - 💫 The easy way to synchronize the DNS configuration of two Pi-hole 5.x instances. \[*GNU GPLv3*\] (⭐️1845)
-  - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh. (⭐️6270) 
+  - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh. (⭐️6271) 
 
 **[⬆ back to top](#contents)**
 
 ## Swift
 
-  - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based) \[*GNU GPLv3*\] (⭐️5861)
+  - [blinksh/blink](https://github.com/blinksh/blink) - Blink Mobile Shell for iOS (Mosh based) \[*GNU GPLv3*\] (⭐️5862)
   - [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer \[*MIT License*\] (⭐️3206)
-  - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network. \[*GNU AGPLv3*\] (⭐️7117) 
+  - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network. \[*GNU AGPLv3*\] (⭐️7120) 
 
 **[⬆ back to top](#contents)**
 
@@ -760,22 +760,22 @@ Total starred repositories: `613`
   - [anas-araid/vscode-infinite-workspace](https://github.com/anas-araid/vscode-infinite-workspace) - a figma-like vscode infinite workspace (⭐️217)
   - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack (⭐️18855)
   - [FinNLP/en-inflectors](https://github.com/FinNLP/en-inflectors) - 📦 English inflection library for noun (plural to singular and singular to plural), verb (gerund, present & past) and adjectives (comparative & superlative) transformations/conjugation. \[*MIT License*\] (⭐️335)
-  - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript \[*MIT License*\] (⭐️17078)
-  - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. \[*MIT License*\] (⭐️2757)
-  - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  \[*GNU AGPLv3*\] (⭐️57735)
-  - [homebridge/homebridge-config-ui-x](https://github.com/homebridge/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser. \[*MIT License*\] (⭐️2454)
+  - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript \[*MIT License*\] (⭐️17079)
+  - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid) - 🦝 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. \[*MIT License*\] (⭐️2759)
+  - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  \[*GNU AGPLv3*\] (⭐️57749)
+  - [homebridge/homebridge-config-ui-x](https://github.com/homebridge/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser. \[*MIT License*\] (⭐️2455)
   - [jakobwesthoff/divoom-pixoo-max-nodejs](https://github.com/jakobwesthoff/divoom-pixoo-max-nodejs) - A reverse engineering experiment of the Divoom Pixoo Max Bluetooth protocol in nodejs (⭐️6)
   - [jontg/homebridge-garage-nexx](https://github.com/jontg/homebridge-garage-nexx) - Homebridge plugin for managing Nexx Garage Doors \[*Apache License 2.0*\] (⭐️1)
   - [kiibohd/configurator](https://github.com/kiibohd/configurator) - Client-side component of the configurator \[*GNU GPLv3*\] (⭐️200)
-  - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need. \[*MIT License*\] (⭐️11119)
-  - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression \[*MIT License*\] (⭐️7726)
+  - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need. \[*MIT License*\] (⭐️11120)
+  - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression \[*MIT License*\] (⭐️7729)
   - [RomRider/node-divoom-timebox-evo](https://github.com/RomRider/node-divoom-timebox-evo) - A node module to generate messages for the Divoom Timebox Evo compatible with the module bluetooth-serial-port (https://github.com/eelcocramer/node-bluetooth-serial-port) \[*MIT License*\] (⭐️117)
-  - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots \[*MIT License*\] (⭐️9579)
+  - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots \[*MIT License*\] (⭐️9578)
   - [sqlectron/sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support. \[*MIT License*\] (⭐️4374)
-  - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. \[*MIT License*\] (⭐️24974)
+  - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. \[*MIT License*\] (⭐️24976)
   - [synle/sqlui-native](https://github.com/synle/sqlui-native) - SQLUI Native (sqluinative) is a simple UI client for most SQL Engines written in Electron. It is compatible with Windows, Mac, Ubuntu / Debian and Redhat. It supports most dialects of RMBDs like MySQL, Microsoft SQL Server, Postgres, SQLite and has limited supports for Cassandra, MongoDB, Redis, CockroachDB, Azure CosmosDB and Azure Storage Tab \[*MIT License*\] (⭐️53)
   - [then/then-request](https://github.com/then/then-request) - A request library that returns promises, inspired by request \[*MIT License*\] (⭐️243)
-  - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies \[*MIT License*\] (⭐️41653) 
+  - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies \[*MIT License*\] (⭐️41656) 
 
 **[⬆ back to top](#contents)**
 
@@ -784,11 +784,11 @@ Total starred repositories: `613`
   - [adafruit/Adafruit-Raspberry-Pi-Python-Code](https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code) - Adafruit library code for Raspberry Pi (⭐️1417) *Archived!*
   - [apiaryio/api-blueprint](https://github.com/apiaryio/api-blueprint) - API Blueprint \[*MIT License*\] (⭐️8569)
   - [appfruits/RotarySensor](https://github.com/appfruits/RotarySensor) - This ULP for Eagle CAD creates a rotary capacitive touch sensor that allows for click wheel kind input. It's compatible with Atmels QTouch technology. (⭐️8)
-  - [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper \[*Apache License 2.0*\] (⭐️862)
-  - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems \[*MIT License*\] (⭐️48919)
+  - [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper \[*Apache License 2.0*\] (⭐️866)
+  - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems \[*MIT License*\] (⭐️48929)
   - [brianseitel/oasis-nerdnite](https://github.com/brianseitel/oasis-nerdnite) - A public API for Nerd Nite events (⭐️1)
-  - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers. \[*MIT License*\] (⭐️9999)
-  - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (⭐️14252)
+  - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers. \[*MIT License*\] (⭐️10001)
+  - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL (⭐️14253)
   - [christiannaths/redacted-font](https://github.com/christiannaths/redacted-font) - Keep your wireframes free of distracting Lorem Ipsum. \[*SIL Open Font License 1.1*\] (⭐️5335)
   - [cutting-room-floor/map-styles](https://github.com/cutting-room-floor/map-styles) - DEPRECATED \[*Modified BSD License*\] (⭐️28)
   - [cutting-room-floor/mapsonastick](https://github.com/cutting-room-floor/mapsonastick) - DEPRECATED: See TileStream and MapBox for iPad (⭐️13)
@@ -798,12 +798,12 @@ Total starred repositories: `613`
   - [egradman/facelogger](https://github.com/egradman/facelogger) - the facelogger (⭐️15)
   - [FaqT0tum/Orbion_3D_Space_Mouse](https://github.com/FaqT0tum/Orbion_3D_Space_Mouse) - 3D Space Mouse DIY easy to build at home (⭐️651)
   - [FreeYourStream/freedeck-hardware](https://github.com/FreeYourStream/freedeck-hardware) - all the stuff you need to build your own FreeDeck (⭐️709)
-  - [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates! \[*MIT License*\] (⭐️1672)
-  - [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated) (⭐️27074) *Archived!*
+  - [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates! \[*MIT License*\] (⭐️1673)
+  - [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated) (⭐️27073) *Archived!*
   - [jirsbek/SSH-keys-in-macOS-Sierra-keychain](https://github.com/jirsbek/SSH-keys-in-macOS-Sierra-keychain) - Saving SSH keys in macOS Sierra keychain (⭐️936)
   - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. (⭐️23203)
-  - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation. \[*MIT License*\] (⭐️8229)
-  - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (⭐️49822)
+  - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation. \[*MIT License*\] (⭐️8228)
+  - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (⭐️49835)
   - [scanlime/TucoFlyer-Winchbot-CAD](https://github.com/scanlime/TucoFlyer-Winchbot-CAD) - Mechanical design for a 1D robot that moves a 5kg load on a nylon cord (⭐️20)
   - [sethvoltz/Cracking-Siri](https://github.com/sethvoltz/Cracking-Siri) - Files we used to reverse-engineer Siri (⭐️1)
   - [sethvoltz/mysql_migration_optimizer](https://github.com/sethvoltz/mysql_migration_optimizer) - Forked version without primary key stuff. Just care about signed vs. unsigned ints \[*MIT License*\] (⭐️1)
@@ -813,18 +813,18 @@ Total starred repositories: `613`
   - [SFMOCI/openlaw](https://github.com/SFMOCI/openlaw) - Downloading, cloning, forking or using these files in any way indicates that you've read and accept the terms of use in the enclosed notice. \[*MIT License*\] (⭐️109)
   - [shildner/viking-metal-death-glogg](https://github.com/shildner/viking-metal-death-glogg) - The 3rd best glögg in Andersonville \[*GNU GPLv2*\] (⭐️26)
   - [simap/pixelblaze](https://github.com/simap/pixelblaze) - Files related to Pixelblaze (⭐️198)
-  - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers \[*Creative Commons Zero v1.0 Universal*\] (⭐️66257)
+  - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers \[*Creative Commons Zero v1.0 Universal*\] (⭐️66261)
   - [witnessmenow/ts100-flex-c-friend](https://github.com/witnessmenow/ts100-flex-c-friend) - Info and documentation for the TS100 Flex-C-Friend, an external add-on for TS-100 for adding USB-C PD (⭐️60)
-  - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet \[*Creative Commons Attribution 4.0 International*\] (⭐️21661) 
+  - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet \[*Creative Commons Attribution 4.0 International*\] (⭐️21664) 
 
 **[⬆ back to top](#contents)**
 
 ## Vim Script
 
   - [altercation/solarized](https://github.com/altercation/solarized) - precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes \[*MIT License*\] (⭐️15576)
-  - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned \[*MIT License*\] (⭐️11388)
+  - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned \[*MIT License*\] (⭐️11389)
   - [oscardelben/dot-files](https://github.com/oscardelben/dot-files) - My dot files (⭐️4)
-  - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim. \[*Do What The F*ck You Want To Public License*\] (⭐️18853)
+  - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim. \[*Do What The F*ck You Want To Public License*\] (⭐️18855)
   - [sethvoltz/dotfiles](https://github.com/sethvoltz/dotfiles) - My dot files \[*MIT License*\] (⭐️10)
   - [tpope/vim-rails](https://github.com/tpope/vim-rails) - rails.vim: Ruby on Rails power tools (⭐️4042) 
 
